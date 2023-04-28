@@ -1,0 +1,342 @@
+[
+  {
+    "title": "A Thousand Years",
+    "artist": "Christina Perry"
+  },
+  {
+    "title": "Air on a G String",
+    "artist": "Bach"
+  },
+  {
+    "title": "All about You",
+    "artist": "McFly"
+  },
+  {
+    "title": "Ave Maria",
+    "artist": "Beyonce"
+  },
+  {
+    "title": "Canon",
+    "artist": "Pachelbel"
+  },
+  {
+    "title": "Caledonia",
+    "artist": "Dougie McLean"
+  },
+  {
+    "title": "For the Love of a Princess",
+    "artist": "Braveheart"
+  },
+  {
+    "title": "I Giorno",
+    "artist": "Einaudi"
+  },
+  {
+    "title": "Kissing You",
+    "artist": "From Romeo and Juliet"
+  },
+  {
+    "title": "One Day Like this",
+    "artist": "Elbow"
+  },
+  {
+    "title": "The Final Countdown",
+    "artist": "Europe"
+  },
+  {
+    "title": "Wedding March",
+    "artist": "Wagner"
+  },
+  {
+    "title": "Wedding March",
+    "artist": "Mendelssohn"
+  },
+  {
+    "title": "500 Miles",
+    "artist": "the Proclaimers"
+  },
+  {
+    "title": "A Case of You",
+    "artist": "Joni Mitchell"
+  },
+  {
+    "title": "A Forrest",
+    "artist": "The Cure"
+  },
+  {
+    "title": "A Hard Days Night",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "A Little Help from My Friends",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "A Little respect",
+    "artist": "Erasure"
+  },
+  {
+    "title": "A Song for you",
+    "artist": "Donny Hathaway"
+  },
+  {
+    "title": "Africa",
+    "artist": "Toto"
+  },
+  {
+    "title": "Ain't No Mountain High Enough",
+    "artist": "Marvin Gaye"
+  },
+  {
+    "title": "All I Want is You",
+    "artist": "U2"
+  },
+  {
+    "title": "All you Need is Love",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Always a Woman",
+    "artist": "Billy Joel"
+  },
+  {
+    "title": "America",
+    "artist": "Simon and Garfunkel"
+  },
+  {
+    "title": "And I Love Her",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Annie's Song",
+    "artist": "John Denver"
+  },
+  {
+    "title": "Another One Bites the Dust",
+    "artist": "Queen"
+  },
+  {
+    "title": "At Last",
+    "artist": "Etta James"
+  },
+  {
+    "title": "Atomic",
+    "artist": "Blondie"
+  },
+  {
+    "title": "Baby Give it Up",
+    "artist": "KC and the Sunshine Band"
+  },
+  {
+    "title": "Baby I Love You",
+    "artist": "The Ramones"
+  },
+  {
+    "title": "Ballerina Girl",
+    "artist": "Lionel Ritchie"
+  },
+  {
+    "title": "Beat It",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Be My Baby",
+    "artist": "the Ronnettes"
+  },
+  {
+    "title": "Bicycle Race",
+    "artist": "Queen"
+  },
+  {
+    "title": "Billy Jean",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Blackbird",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Blue Moon",
+    "artist": "The Marcels"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen"
+  },
+  {
+    "title": "Born to be Wild",
+    "artist": "Steppenwolf"
+  },
+  {
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "title": "Both Sides Now",
+    "artist": "Joni Mitchell"
+  },
+  {
+    "title": "Boys Don't Cry",
+    "artist": "The Cure"
+  },
+  {
+    "title": "Bridge Over Troubled Water",
+    "artist": "Paul Simon"
+  },
+  {
+    "title": "Bring on the Dancing Horses",
+    "artist": "Echo & the Bunnymen"
+  },
+  {
+    "title": "Bring Your Daughter to the Slaughter",
+    "artist": "Iron Maiden"
+  },
+  {
+    "title": "Brown Eyed Girl",
+    "artist": "Van Morrisson"
+  },
+  {
+    "title": "C'est la Vie",
+    "artist": "Double Denim Medley"
+  },
+  {
+    "title": "California Dreaming",
+    "artist": "The Mama and the Papas"
+  },
+  {
+    "title": "Can't Help Falling in Love",
+    "artist": "Elvis"
+  },
+  {
+    "title": "Caravan of Love",
+    "artist": "House Martins"
+  },
+  {
+    "title": "Carla Etude",
+    "artist": "Elton John"
+  },
+  {
+    "title": "Cars",
+    "artist": "Gary Numan"
+  },
+  {
+    "title": "Celebration",
+    "artist": "Kool and the Gang"
+  },
+  {
+    "title": "Changes",
+    "artist": "David Bowie"
+  },
+  {
+    "title": "Close to You",
+    "artist": "The Carpenters"
+  },
+  {
+    "title": "Come and get Your Love",
+    "artist": "Redbone"
+  },
+  {
+    "title": "Come on Eileen",
+    "artist": "Dexy's Midnight Runners"
+  },
+  {
+    "title": "Comfortably Numb",
+    "artist": "Pink Floyd"
+  },
+  {
+    "title": "Coming to America",
+    "artist": "Neil Diamond"
+  },
+  {
+    "title": "Country Roads Take me Home",
+    "artist": "John Denver"
+  },
+  {
+    "title": "Crazy Little thing Called Love",
+    "artist": "Queen"
+  },
+  {
+    "title": "Dancing Queen",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Dancing in the Dark",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "title": "Disco Inferno",
+    "artist": "70's Medley"
+  },
+  {
+    "title": "Does Your Mother Know",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Don't Leave me This Way",
+    "artist": "Jimmy Somerville"
+  },
+  {
+    "title": "Don't Stop Believing",
+    "artist": "Journey"
+  },
+  {
+    "title": "Don't Stop me Now",
+    "artist": "Queen"
+  },
+  {
+    "title": "Don't Worry Baby",
+    "artist": "The Beach Boys"
+  },
+  {
+    "title": "Don't You Want me Baby",
+    "artist": "The Human League"
+  },
+  {
+    "title": "Eight Days a Week",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Eleanor Rigby",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "English Rose",
+    "artist": "Paul Weller"
+  },
+  {
+    "title": "Enter Sandman",
+    "artist": "Mettalica"
+  },
+  {
+    "title": "Everlasting Love",
+    "artist": "Love Affair"
+  },
+  {
+    "title": "Everywhere",
+    "artist": "Fleetwood Mac"
+  },
+  {
+    "title": "Every Day is Like Sunday",
+    "artist": "Morrissey"
+  },
+  {
+    "title": "Every Little Thing She Does is Magic",
+    "artist": "The Police"
+  },
+  {
+    "title": "Every Step You Take",
+    "artist": "The Police"
+  },
+  {
+    "title": "Everything",
+    "artist": "Michael Bublé"
+  },
+  {
+    "title": "Faithfully",
+    "artist": "Journey"
+  },
+  {
+    "title": "Fat Bottomed Girls",
+    "artist": "Queen"
+  }
+ ]
